@@ -1,0 +1,13 @@
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.csproj.AssemblyReference.cache
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.Form1.resources
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.Properties.Resources.resources
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.csproj.GenerateResource.cache
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.csproj.CoreCompileInputs.cache
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\bin\Debug\backend.exe.config
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\bin\Debug\backend.exe
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\bin\Debug\backend.pdb
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.csproj.CopyComplete
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.exe
+C:\Users\Felhasznalo\source\repos\Backend\backend\backend\obj\Debug\backend.pdb
